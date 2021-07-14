@@ -195,10 +195,12 @@ th{
     }
     .top-image{
         margin-top: 50px;
+        width: 90% auto;
     }
     .top-image img{
-        width: 380;
-        height: 260px;
+        width: 80% ;
+        height: auto;
+        margin: 0 10% auto;
     }
     .top-heading h1{
         font-size: 36px;
@@ -239,16 +241,19 @@ th{
         margin-top: 50px;
     }
     .top-scorer{
-        margin-left: 0;
+        margin: 0 10% auto;
     }
     .top-scorer h1{
         font-size: 20px;
     }
     table{
         border-collapse: collapse;
-        font-size: 10px;
+        font-size: 13px;
         width: 90%;
         height: auto;
+    }
+    .footer-container{
+        margin: 10% 20% auto;
     }
     .footer-container img{
         width: 70%;
